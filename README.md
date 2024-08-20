@@ -1,7 +1,5 @@
-## Hi there 👋
+Boas vindas ao meu perfil 🤒!!
 
-<!--
-**victor3294n/victor3294n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é **victor** !
 
-Here are some ideas to get you started:
-
+no momento estou no alura 💔p
